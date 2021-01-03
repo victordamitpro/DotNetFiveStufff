@@ -1,0 +1,3 @@
+c:\Publish\DotNetFive\Persistence.dll
+c:\Publish\DotNetFive\Persistence.deps.json
+c:\Publish\DotNetFive\Persistence.pdb

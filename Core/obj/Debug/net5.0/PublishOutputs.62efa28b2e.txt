@@ -1,0 +1,3 @@
+c:\Publish\DotNetFive\Core.dll
+c:\Publish\DotNetFive\Core.deps.json
+c:\Publish\DotNetFive\Core.pdb

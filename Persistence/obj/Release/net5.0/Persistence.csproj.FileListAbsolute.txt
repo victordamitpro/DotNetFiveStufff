@@ -1,0 +1,12 @@
+C:\Training\NetCore\StuffNetFive\Persistence\bin\Release\net5.0\Persistence.deps.json
+C:\Training\NetCore\StuffNetFive\Persistence\bin\Release\net5.0\Persistence.dll
+C:\Training\NetCore\StuffNetFive\Persistence\bin\Release\net5.0\ref\Persistence.dll
+C:\Training\NetCore\StuffNetFive\Persistence\bin\Release\net5.0\Persistence.pdb
+C:\Training\NetCore\StuffNetFive\Persistence\obj\Release\net5.0\Persistence.csprojAssemblyReference.cache
+C:\Training\NetCore\StuffNetFive\Persistence\obj\Release\net5.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\NetCore\StuffNetFive\Persistence\obj\Release\net5.0\Persistence.AssemblyInfoInputs.cache
+C:\Training\NetCore\StuffNetFive\Persistence\obj\Release\net5.0\Persistence.AssemblyInfo.cs
+C:\Training\NetCore\StuffNetFive\Persistence\obj\Release\net5.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Training\NetCore\StuffNetFive\Persistence\obj\Release\net5.0\Persistence.dll
+C:\Training\NetCore\StuffNetFive\Persistence\obj\Release\net5.0\ref\Persistence.dll
+C:\Training\NetCore\StuffNetFive\Persistence\obj\Release\net5.0\Persistence.pdb

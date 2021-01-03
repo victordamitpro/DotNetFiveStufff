@@ -1,0 +1,9 @@
+c:\Publish\DotNetFive\Application.dll
+c:\Publish\DotNetFive\Application.deps.json
+c:\Publish\DotNetFive\Application.pdb
+c:\Publish\DotNetFive\Core.dll
+c:\Publish\DotNetFive\Infrastructure.dll
+c:\Publish\DotNetFive\Persistence.dll
+c:\Publish\DotNetFive\Infrastructure.pdb
+c:\Publish\DotNetFive\Core.pdb
+c:\Publish\DotNetFive\Persistence.pdb

@@ -1,0 +1,12 @@
+C:\Training\NetCore\StuffNetFive\Infrastructure\bin\Release\net5.0\Infrastructure.deps.json
+C:\Training\NetCore\StuffNetFive\Infrastructure\bin\Release\net5.0\Infrastructure.dll
+C:\Training\NetCore\StuffNetFive\Infrastructure\bin\Release\net5.0\ref\Infrastructure.dll
+C:\Training\NetCore\StuffNetFive\Infrastructure\bin\Release\net5.0\Infrastructure.pdb
+C:\Training\NetCore\StuffNetFive\Infrastructure\obj\Release\net5.0\Infrastructure.csprojAssemblyReference.cache
+C:\Training\NetCore\StuffNetFive\Infrastructure\obj\Release\net5.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\NetCore\StuffNetFive\Infrastructure\obj\Release\net5.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Training\NetCore\StuffNetFive\Infrastructure\obj\Release\net5.0\Infrastructure.AssemblyInfo.cs
+C:\Training\NetCore\StuffNetFive\Infrastructure\obj\Release\net5.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Training\NetCore\StuffNetFive\Infrastructure\obj\Release\net5.0\Infrastructure.dll
+C:\Training\NetCore\StuffNetFive\Infrastructure\obj\Release\net5.0\ref\Infrastructure.dll
+C:\Training\NetCore\StuffNetFive\Infrastructure\obj\Release\net5.0\Infrastructure.pdb

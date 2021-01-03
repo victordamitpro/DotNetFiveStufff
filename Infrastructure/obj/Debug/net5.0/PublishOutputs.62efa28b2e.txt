@@ -1,0 +1,3 @@
+c:\Publish\DotNetFive\Infrastructure.dll
+c:\Publish\DotNetFive\Infrastructure.deps.json
+c:\Publish\DotNetFive\Infrastructure.pdb
